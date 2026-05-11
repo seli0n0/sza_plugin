@@ -1,5 +1,9 @@
 {
-  "cat_plugin": true,
-  "plugin2": false,
-  "plugin3": true
+  "enabled_plugins": ["cat_plugin"],
+  "plugins": {
+    "cat_plugin": {
+      "enabled": true,
+      "author": "@spottyID"
+    }
+  }
 }
