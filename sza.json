@@ -1,3 +1,4 @@
 {
-  "enabled_plugins": ["ca_plugin"]
+  "enabled_plugins": ["cat_plugin"],
+  "cat_plugin": false
 }
