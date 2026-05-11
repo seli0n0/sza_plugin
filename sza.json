@@ -1,4 +1,3 @@
 {
-  "enabled_plugins": ["cat_plugin"],
-  "cat_plugin": false
+  "cat_plugin": true
 }
