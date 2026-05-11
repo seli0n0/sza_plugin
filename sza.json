@@ -1,1 +1,3 @@
-
+{
+  "enabled_plugins": ["cat_plugin"]
+}
