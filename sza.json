@@ -1,5 +1,5 @@
 {
-  "cat_plugin": true,
+  "cat_plugin": false,
   "plugin2": false,
   "plugin3": true
 }
