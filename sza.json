@@ -1,9 +1,13 @@
 {
-  "enabled_plugins": ["cat_plugin"],
+  "enabled_plugins": ["cat_plugin", "vk_video_search_plugin"],
   "plugins": {
     "cat_plugin": {
       "enabled": true,
       "author": "@spottyID"
+    },
+    "vk_video_search_plugin": {
+      "enabled": true,
+      "author": "@vsevolodbotov"
     }
   }
 }
